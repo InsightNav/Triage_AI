@@ -1,0 +1,6 @@
+{
+  "name": "TriageAI",
+  "description": "An AI-powered deadline crisis manager that helps you survive deadline emergencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
