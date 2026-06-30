@@ -1,4 +1,4 @@
-# 🚨 TriageAI
+# 🚨💎 TriageAI
 
 ### AI-Powered Deadline Crisis Manager
 *Vib2Ship Google AI Hackathon 2026*
